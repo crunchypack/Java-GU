@@ -15,4 +15,4 @@ This program uses a database to store and present reviews of books, games and mo
 The entire program was written in java. We used mySQL database. 
 
 ### Running the app
-There is no server running the database så the entire app runs locally, an .sql file is included to get you started.The _settings.txt_ is used for the connector to the database change it based on your credentials. It's recomended to not use root for your database.
+There is no server running the database so the entire app runs locally, an .sql file is included to get you started.The _settings.txt_ is used for the connector to the database change it based on your credentials. It's recommended to not use root for your database.
