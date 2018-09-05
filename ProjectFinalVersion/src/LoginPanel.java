@@ -505,7 +505,7 @@ public class LoginPanel extends javax.swing.JPanel {
       	
  
       	user = userName;  //Petroula
-                          // String used to create the Welcome Guest/username on the MainPage
+                          // String used to create the Welcome Guest/username on the MainPage sbndjbsdj
       	
       	try {
       		result = BetaCritic.manager.statement.executeQuery(cmd);
